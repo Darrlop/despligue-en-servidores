@@ -47,10 +47,10 @@ La aplicación Node (Chollopop) utilizada es la de Backend Avanzado. La parte ac
 
 No obstante, es posible verificar con sencillez el requisito de los archivos estáticos suministrados por Nginx en la página de "Inicio", chequeando en la pestaña de red: 
 
-- Logo de la web: 'chollopop-transparente.png'
-- Archivo css: 'styles.css'
+- Logo de la web: `chollopop-transparente.png`
+- Archivo css: `styles.css`
 
-En ambos casos se puede observar que poseen la cabecera 'X-Owner darrlop'
+En ambos casos se puede observar que poseen la cabecera `X-Owner darrlop`
 
 
 
